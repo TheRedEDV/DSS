@@ -1,0 +1,1308 @@
+{
+    "session": "2022/08/13 at 14:51",
+    "id": "sess 2022-08-13 at 14-51.json",
+    "sques": [
+        "diputados"
+    ],
+    "sdata": {
+        "https://www.daypo.com/sociedad-mexicana-contemporanea-2-parte.html#test": [
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "71.3 y  76.5",
+                        "77.9 y 73.2",
+                        "76.5 y 71.3",
+                        "73.2 y 71.3"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "1-\t\u00bfEn base a la informaci\u00f3n  del censo de poblaci\u00f3n y vivienda del INEGI 2010 cual es la esperanza de vida para hombres y mujeres en M\u00e9xico? \n"
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Consolidaci\u00f3n del gobierno emanado del PRI",
+                        "Crecimiento constante de la clase media ",
+                        "Hacer corporativo los sectores obrero y campesino ",
+                        "La urbanizaci\u00f3n de las principales ciudades "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "2-\u00bfCu\u00e1l fue uno de los principales logros sociales del llamado milagro mexicano o desarrollo estabilizador?"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Edad y Sexo ",
+                        "Sexo y Entidad Federativa ",
+                        "Natalidad y Mortalidad ",
+                        "Edad y Entidad Federativa "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "3-\u00bfCu\u00e1les son los datos que se utilizan para formar una  pir\u00e1mide poblacional?"
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "1-D    2-B    3-E",
+                        "1-E     2-B    3-C",
+                        "1-B     2-C    3-D",
+                        "1-A     2-C    3-D"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "4-\tRelaciona los indicadores de la columna  con la definici\u00f3n correspondiente :\n\n1-\tDistribuci\u00f3n de poblaci\u00f3n \n2-\tEmigraci\u00f3n \n3-\tDensidad Poblacional \n\na)\tIndicador que resulta de dividir el n\u00famero de personas adultas entre la poblaci\u00f3n total.\nb)\tCambio de residencia habitual de una unidad pol\u00edtico administrativa hacia otra en un momento dado desde la perspectiva del lugar donde se origina el movimiento. \nc)\tIndicador que resulta de dividir la totalidad de la poblaci\u00f3n entre la extensi\u00f3n de la unidad territorial considerada.\nd)\tEs la ubicaci\u00f3n de la poblaci\u00f3n en el territorio.\ne)\tEs la proporci\u00f3n de personas que tiene cada entidad federativa respecto del total del pa\u00eds.\n"
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Conocimientos que valoran elementos comunes que buscan un proyecto nacional de desarrollo.",
+                        "Creencias, costumbres, artesan\u00edas, rituales y s\u00edmbolos tradiciones de una poblaci\u00f3n terminada.",
+                        "Manifestaciones en las que se expresa la vida tradicional de un pueblo como su calendario ritual.",
+                        "Modos de vida y costumbres que determinan caracter\u00edsticas que identifican un estado nacional"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "5-   Selecciona la opci\u00f3n que complete la siguiente oraci\u00f3n:\nUna cultura nacional es un conjunto de  _______________\n"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Diversidad",
+                        "Personalidad ",
+                        "Cultura",
+                        "Estructura"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "6-  \u00bfC\u00f3mo se le denomina a la pluralidad  existente entre los individuos?"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "1 c    2b   3a ",
+                        "1a     2b   3c",
+                        "1b     2c   3a",
+                        "1b     2a   3c"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "7-    Relaciona los siguientes enunciados seg\u00fan corresponda al tipo de familia:\n1- Monoparentales\n2- Extensas\n3- Nuclear \n\na) En los 50 la familia ideal era aquella en la que el padre era el sost\u00e9n de la casa y la esposa de dedicaba  a crear a los hijos en el hogar.\nb) Es el tipo de familia en la que viven bajo el mismo techo los abuelos, los hijos y nietos.\nc) Es la familia que se conforma por un padre e hijos solamente sin embargo considera los lazos familiares como su principal fuente de felicidad y significado en la vida.\nd) son aquellas familias que est\u00e1n compuesta por miembros del mismo g\u00e9nero en la cual deciden adoptar a un miembro para lograr su felicidad plena.\n"
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Cantinflismo",
+                        "Servilismo",
+                        "Hipocres\u00eda ",
+                        "Verbalismo"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "8- Lee el siguiente p\u00e1rrafo y contesta lo que se te pide:\n\nAnaliza el siguiente p\u00e1rrafo y contesta lo que se te pide m\u00e1s adelante. Seg\u00fan el autor Carlos A. Echanove Trujillo nos explica en su libro sociolog\u00eda Mexicana. El mexicano se caracteriza entre otras cosas por tener un esp\u00edritu de sumisi\u00f3n, en un principio a los jefes en la poblaci\u00f3n prehisp\u00e1nica en M\u00e9xico, el cual es un fen\u00f3meno suficientemente evidenciado, tanto as\u00ed que ha sido una herencia que ha llegado hasta la actualidad seg\u00fan expresa dicho autor exponiendo que el presidente de la Republica se encuentra en el pelda\u00f1o alto el cual es mirado por las masas, algo as\u00ed como un ser m\u00edsticamente superior, seg\u00fan lo demuestran ciertas manifestaciones muy significativas; un ejemplo de ello es por lo que toca al pueblo de la capital en los a\u00f1os cincuenta, cada que el presidente entra o sale del Palacio Nacional la gente se amontona para mirarlo y muchos individuos, reverentemente se quitan el sombrero. Respecto al p\u00e1rrafo anterior, se est\u00e1 hablando de una caracter\u00edstica especial que ha sido heredad a los mexicanos desde tiempos prehisp\u00e1nicos. \u00bfCu\u00e1l es la caracter\u00edstica que se menciona en el texto? \n"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Tradicional ",
+                        "Contempor\u00e1nea",
+                        "Transitorio ",
+                        "Igualitario"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "9- Lee el siguiente texto y contesta lo que se te pide. Una familia de clase media explica las funciones que tiene en el hogar, mencionan que la esposa es responsable del \u00e1rea de  la sala de estar y las habitaciones, as\u00ed como de la cocina y cuida a los ni\u00f1os. El marido se hace cargo del cuarto donde se guardan las herramientas y del \u00e1rea de la televisi\u00f3n, del perro y de trabajar. Racionalizan este acuerdo en t\u00e9rminos de personalidad, ella es compulsiva y el perezoso. Respecto al texto anterior \u00bfCu\u00e1l es el tipo de rol que se ejemplifica en la familia descrita? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Alianza inesperada entre sociedad civil y autoridades",
+                        "Cuestionamiento a la clase pol\u00edtica obligada rendir cuentas",
+                        "Uni\u00f3n de la sociedad civil  organizada de diferentes maneras ",
+                        "Grupos inconformes aprovecharon para manifestarse"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "10- Tras los sismos del 19 y 20 de septiembre de 1985, la respuesta gubernamental fue d\u00e9bil, adem\u00e1s de ser ampliamente superada por la crisis. \u00bfQu\u00e9 importante cambio social trajo como consecuencia? "
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Fidel Vel\u00e1squez",
+                        "Abelardo Rodr\u00edguez  ",
+                        "Vicente Toledano ",
+                        "Luis Morales "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "11- Fue un pol\u00e9mico l\u00edder obrero que se mantuvo en frente de la Confederaci\u00f3n de Trabajadores Mexicanos     (CTM) de 1941 hasta su muerte en 1997, se caracteriz\u00f3 por apoyar incondicionalmente al partido del poder."
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Manuel \u00c1vila Camacho  1940 -1946",
+                        "Miguel Alem\u00e1n Vald\u00e9s   1946- 1952",
+                        "Adolfo L\u00f3pez Mateos     1958- 1964",
+                        "Adolfo Ruiz Cortines       1952 -1958"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "12- \u00bfQui\u00e9n fue el primer presidente civil en la vida institucional del pa\u00eds despu\u00e9s de la revoluci\u00f3n y en que sexenio? "
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "3,4 ,1,2",
+                        "1,2,4,3",
+                        "4,3,2,1",
+                        "2,4,3,1"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "13- Ordena cronol\u00f3gicamente los siguientes hechos del  m\u00e1s antiguo al m\u00e1s reciente:\n\n1-\tNacionalizaci\u00f3n de la banca privada \n2-\tEntrada de M\u00e9xico al acuerdo de tarifas y aranceles GATT \n3-\tEntrada en vigor del tratado del libre comercio con Estados Unidos y Canad\u00e1 \n4-\tPrivatizaci\u00f3n de la banca \n"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Redujo y bajo",
+                        "Redujo y estanco ",
+                        "Aumento y bajo ",
+                        "Estabilizo y bajo "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "14- Completa el siguiente enunciado con una de las opciones que se te presentan:\n\nEl modelo de industrializaci\u00f3n entro en declive total a finales de mayo de 1981 cuando el precio del petr\u00f3leo se___________                      y la tasa de crecimiento ____________"
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Estabilidad del tipo de cambio",
+                        "Sustituci\u00f3n  de importaciones  ",
+                        "Elevaci\u00f3n de los precios de los productos agr\u00edcolas  ",
+                        "Fortalecimiento del mercado con  internacional "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "15-  \u00bfCual es una de las caracter\u00edsticas del modelo proteccionista en M\u00e9xico?"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Argentina, Chile y Uruguay ",
+                        "M\u00e9xico, Brasil y Argentina ",
+                        "Chile, Cuba y Uruguay ",
+                        "M\u00e9xico, Brasil y Uruguay "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": " 16-  Para medir el desarrollo humano de cada pa\u00eds se utiliza el \u00cdndice de Desarrollo Humano como una aproximaci\u00f3n del IDH se puede tomar el promedio simple de 3 \u00edndices, esperanza de vida, nivel educativo y PIB, indica los pa\u00edses que tiene el IDH m\u00e1s alto "
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Tel\u00e9fonos de M\u00e9xico",
+                        "Petr\u00f3leos Mexicanos",
+                        "Comisi\u00f3n Federal de Electricidad  ",
+                        "Nacional Financiera "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "17- \u00bfCual fue una de las empresas m\u00e1s importantes en manos del estado mexicano que fue privatizado en el gobierno de Carlos Salinas de Gortari?"
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Agr\u00edcola , debido a que exist\u00edan ventajas al sector primario ",
+                        "Minero, porque la metalurgia recibi\u00f3 apoyo de la inversi\u00f3n extranjera",
+                        "Comercio Exterior , porque ten\u00eda dividendos de la inversi\u00f3n extranjera ",
+                        "Ganadero, porque ten\u00eda incentivos al sector primario "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "18- Con la entrada al GATT M\u00e9xico tuvo que reducir sus aranceles a varios productos, \u00bfCu\u00e1l fue el sector m\u00e1s beneficiado y porque?"
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Educativo",
+                        "Ganadero",
+                        "Obra Publica",
+                        "Agr\u00edcola "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "19-  Las pol\u00edticas econ\u00f3micas que implemento el Lic Miguel Alem\u00e1n ayudo para que el pa\u00eds se industrializara, \u00bfqu\u00e9 sector fue el m\u00e1s beneficiado?"
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Secundario",
+                        "Informal",
+                        "Primario ",
+                        "Terciario"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "20-  Debido a la crisis econ\u00f3mica de 1994-1995, se perdieron miles de empleos formales dando paso a la creaci\u00f3n de un cuarto sector en la econom\u00eda nacional, cual es este sector?"
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Soberan\u00eda ",
+                        "Naci\u00f3n ",
+                        "Estado ",
+                        "Gobierno"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "21- \u00bfCu\u00e1l es el conjunto social que se encuentra en y por la universidad de los ciudadanos? "
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Representativa, Democr\u00e1tica y Federal ",
+                        "Libre y Democr\u00e1tica",
+                        "Gobernada por partidos",
+                        "Constitucional y libre de voto"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "22-  Selecciona la opci\u00f3n que complete la siguiente oraci\u00f3n:\nM\u00e9xico es una Rep\u00fablica  _______________\n"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "123",
+                        "3",
+                        "27 ",
+                        "5"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "23- Complete el siguiente enunciado con una de las opciones que se te presentan:\n\nLos beneficios laborales como asociaci\u00f3n profesional, jornada laboral de 8 horas, indemnizaciones entre otros derechos, est\u00e1n establecidos en el art\u00edculo _____ constitucional. \n"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "1B  2C  3D  4A",
+                        "1C  2D  3B  4A",
+                        "1A  2C  3B  4D",
+                        "1D  2A  3C  4B"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "24-  Relaciona los derechos de los ciudadanos con los enunciados correspondientes:\n\n1-\tExpresi\u00f3n\n2-\tTransito \n3-\tInformaci\u00f3n\n4-\tEsclavitud \n\nDerechos de los Ciudadanos:\n\na)\tDerecho que proh\u00edbe cualquier explotaci\u00f3n hecha por el hombre, priv\u00e1ndola de la libertad y oblig\u00e1ndola a trabajar sin remuneraci\u00f3n alguna.\nb)\tDerecho por el cual todo individuo puede decir por cualquier medio escrito u oral sin atacar  a la moral ni los derechos del otro. \nc)\tTodo mexicano podr\u00e1 entrar y salir del pa\u00eds, viajar de un lugar a otro dentro del territorio mexicano o mudarse sin que requiera para ello alg\u00fan documento legal.\nd)\tCual ciudadano puede buscar, corregir, publicar ideas por cualquier medio.\n"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Luis Echeverr\u00eda \u00c1lvarez ",
+                        "Gustavo D\u00edaz Ordaz",
+                        "Miguel Alem\u00e1n",
+                        "Miguel de la Madrid "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "25- \u00bfCu\u00e1l de los siguientes personajes ocupaba la secretaria de gobernaci\u00f3n y envi\u00f3 al ej\u00e9rcito y a la estructura policiaca  para poner fin al prolongado conflicto estudiantil del 68?"
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "1, 2 ,4",
+                        "1, 2 , 3",
+                        "1,2 ",
+                        "3,4 "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "26 - Se\u00f1ala cuales son algunos de los factores econ\u00f3micos que dieron origen a la constituci\u00f3n de 1917. \n\n1\tLa lucha que protagonizaron Inglaterra y Estados Unidos por el control y la producci\u00f3n del petr\u00f3leo mexicano. \n2\tLos bajos salarios de los trabajadores con los cuales perd\u00edan su poder adquisitivo. \n3\tCobro inequitativo del sistema de impuestos cobrando poco a los ricos y mucho a los pobres y a las clases medias. \n4\tEl decremento al salario, a la producci\u00f3n agr\u00edcola y el incremento a la industria privada.\n"
+            },
+            {
+                "ans": "12",
+                "pans": [
+                    [
+                        "Gobierno ",
+                        "Estado  "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "27- Complete el s\u00edguete enunciado con alguna de las opciones que se le presente.\n\n\u00c9l  ________________  se refiere a una forma de organizaci\u00f3n Social Pol\u00edtica, Soberana y Coercitiva, formada por un conjunto de instituciones que tienen el poder de regular la vida nacional, en un territorio o contexto determinado.\n"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "F V F",
+                        "V V F",
+                        "F F V",
+                        "F V V"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "28-  Califica los siguientes enunciados sobre aspectos pol\u00edticos como falsos y verdaderos seg\u00fan corresponda. \nLa c\u00e1mara de diputados tiene la facultad de designar y destituir a los secretarios de estado y al gobernador del banco de M\u00e9xico.\n\nEl presidente de la rep\u00fablica est\u00e1 facultado con autorizaci\u00f3n correspondiente para asistir a las cumbres internacionales y establecer acuerdos con los diferentes jefes de estado que asistan a ellas. \n\nUn partido pol\u00edtico de Zacatecas puede elegir a Fabiola Alfaro Castro como diputada, ya que consideran que tiene una gran oportunidad de ganar por la popularidad que tiene en dicho estado, de ser elegida tendr\u00eda 21 a\u00f1os cumplidos y apenas 3 meses de haber vivido en Zacatecas, debido que actualmente reside en San Luis Potos\u00ed.\n"
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Consulta Ciudadana ",
+                        "Legitimidad declarada por el estado ",
+                        "Legitimidad del inter\u00e9s publico ",
+                        "Imposici\u00f3n personal "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "29-  El escritor y activista Javier Sicilia quien es considerado un representante de la sociedad civil \u00bfporque medio obtuvo este estatus?"
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Los cat\u00f3licos dem\u00f3cratas ejercieron acciones contundentes para resolver la cuesti\u00f3n social aplicando las lecciones del papa Le\u00f3n XIII en materia laboral ",
+                        "El desarrollo nuevo y numerosas iglesias crearon las circunstancias que generaron el cambio constitucional con respecto a las organizaciones religiosas",
+                        "Los antecedentes de la alta jerarqu\u00eda eclesi\u00e1stica pacto en 1929 con el entonces presidente Emilio  Portes Gil  sin considerar a los militantes cristeros ",
+                        "El gobierno se compromet\u00eda a la  no aplicaci\u00f3n de los art\u00edculos constitucionales molestos para la iglesia   pero sin reformarlos y el culto p\u00fablico fue reanudado"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "30-  Que motivo las reformas constitucionales 1992 en materia religiosa: "
+            }
+        ],
+        "https://www.daypo.com/222952.html#test": [
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Entrada en vigor del Tratado de Libre Comercio de Am\u00e9rica del Norte",
+                        "Inicio del Programa Solidaridad y Apoyo a los Pueblos Ind\u00edgenas",
+                        "Subida al poder Ernesto Zedillo Ponce de Le\u00f3n y crisis monetaria",
+                        "El d\u00e9ficit del PIB pasa del 2.20%  en 1990, hasta un 4.70% en 1993, siendo un incremento superior al 100%"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfQu\u00e9 hecho aislado importante para la econom\u00eda del pa\u00eds coincide con el levantamiento armado del Ejercito Zapatista de Liberaci\u00f3n Nacional (EZLN)?"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "123",
+                        "5\u02da",
+                        "3\u02da",
+                        "27"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Los beneficios laborales como asociaci\u00f3n profesional, jornada laboral de 8 horas, indemnizaciones entre otros derechos, est\u00e1n establecidos en el art\u00edculo_______ constitucional. "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Conocer el crecimiento demogr\u00e1fico ",
+                        "Determinar los niveles de sobrepoblaci\u00f3n del pa\u00eds ",
+                        "Describir la poblaci\u00f3n en un momento espec\u00edfico ",
+                        "Identificar las diferentes regiones del pa\u00eds"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l es la principal funci\u00f3n que tiene la aplicaci\u00f3n del censo que realiza el INEGI cada diez a\u00f1os? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Hacer corporativo los sectores obreros y campesino",
+                        "La organizaci\u00f3n de las principales ciudades ",
+                        "El crecimiento constante  de la clase media ",
+                        "Consolidaci\u00f3n del gobierno emanado del PRI"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCual fue uno de los principales logros sociales del llamado \u201cmilagro mexicano\u201d del desarrollo estabilizador? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Feminidad ",
+                        "Natalidad ",
+                        "Masculinidad",
+                        "Mortalidad"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Completa el siguiente enunciado con la informaci\u00f3n correspondiente.\nEn el 2010 el INEGI dio a conocer que Baja California sur es la entidad federativa con la raz\u00f3n de sexo m\u00e1s alta. Es decir, que su \u00edndice de _____________ es el mayor del pa\u00eds."
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Sexo y entidad federativa ",
+                        "Edad y sexo",
+                        "Natalidad y mortalidad",
+                        "Edad y entidad federativa"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1les son los datos que se utilizan para formar una pir\u00e1mide poblacional? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Cultura",
+                        "Estructura",
+                        "Diversidad",
+                        "Personalidad"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfC\u00f3mo se denomina a la pluralidad existente entre los individuos? "
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Transmitiendo valores laicos a trav\u00e9s de sus instancias de salud, educaci\u00f3n y los medios de comunicaci\u00f3n.",
+                        "El estado no puede participar manteni\u00e9ndose acciones y decisiones que repercuten en la vida comunitaria",
+                        "El estado no puede tener participaci\u00f3n porque lo impide la constituci\u00f3n al establecer su car\u00e1cter p\u00fablico- laico.",
+                        "Propiciando la difusi\u00f3n de los principios morales y bases de la iglesia apoyando la educaci\u00f3n ofrecida por estado."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l es la participaci\u00f3n que tiene el estado en la generaci\u00f3n de valores en la sociedad mexicana?"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "\u00c9poca de Oro ",
+                        "Cine indigenista",
+                        "Nuevo cine mexicano",
+                        "Los inmortales "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l fue el periodo m\u00e1s prolifero e importante de la industria cinematogr\u00e1fica nacional siendo reconocido y premiado internacionalmente?"
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "1-b",
+                        "2-d",
+                        "3-a",
+                        "1-c"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Una maestra le pide a sus alumnos una presentaci\u00f3n acerca del hogar: Familia nuclear de la que se obtienen las siguientes diapositivas.\n1- Rosa y Pedro llevan 7 a\u00f1os viviendo en uni\u00f3n libre y tienen hijos.\n2- Nora y Alberto llevan 4 a\u00f1os de casados y no tienen hijos.\n3- Marta es una mam\u00e1 soltera que vive con su \u00fanico hijo.\nIndica cuales de los ejemplos mostrados en la diapositiva corresponden a un hogar familiar nuclear e indica porque.\na) Porque aunque la pareja no tenga hijos basta con que sea un matrimonio legalmente constituido.\nb) Porque basta con que exista la figura de jefe o jefa de familia y por lo menos un dependiente.\nc) Porque la \u00fanica familia formada por una pareja con hijos independientemente de su estatus matrimonial.\nd) Los tres antes porque esta categor\u00eda incluye las familias monoparentales y parejas con o sin hijos."
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "transitorio",
+                        "Igualitario",
+                        "Contempor\u00e1nea",
+                        "Tradicional"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "-- Lee el siguiente texto.\n   \"Una familia de clase media explica las funciones que tienen en el hogar, mencionan que la esposa es responsable del \u00e1rea de estar y las habitaciones, as\u00ed como de la cocina y cuida a los ni\u00f1os. El marido se hace cargo del cuarto donde se guardan las herramientas y del \u00e1rea de la televisi\u00f3n, del perro y de trabajar. Racionalizan este acuerdo en t\u00e9rminos de personalidad, ella es compulsiva y el perezoso\".\nRespecto al texto anterior \u00bfCu\u00e1l es el tipo de rol que se ejemplifica en la familia descrita?"
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "2, 3, 4",
+                        "1, 2, 3",
+                        "1, 3, 4",
+                        "2, 4"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Selecciona cu\u00e1l de los cuatro elementos encontrados en internet corresponden a caracter\u00edsticas del fen\u00f3meno migratorio.\n1- En la actualidad obedece m\u00e1s a las caracter\u00edsticas del lugar de destino que al desempleo en el lugar de origen.\n2- Favorece el intercambio social y cultural entre los nativos y migrantes.\n3- Se ve favorecido por la marginalidad y el retraso en ciertas zonas geogr\u00e1ficas.\n4- Origina que aumente el rol preponderante y de jefatura de la mujer comprometiendo tambi\u00e9n el bienestar de los hijos."
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Carlos Salinas de Gortari",
+                        "Jos\u00e9 L\u00f3pez Portillo ",
+                        "Luis Echeverr\u00eda \u00c1lvarez",
+                        "Miguel de la Madrid Hurtado"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l de los siguientes expresidentes de M\u00e9xico estaba en funciones cuando durante su \u00faltimo informe de gobierno anuncio la nacionalizaci\u00f3n de la banca privada? "
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Negativa de los grandes consorcios al pago de impuestos y la figura de capitales.",
+                        "Sobrendeudamiento y repentina baja del precio internacional del petr\u00f3leo.",
+                        "Sobrendeudamiento y repentina alza en las tasas de inter\u00e9s por concepto de la deuda.",
+                        "Reconocimiento de la quiebra y suspensi\u00f3n de los pagos de la deuda externa."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1les fueron las principales causas de la crisis mexicana de 1981 y 1982? "
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Modelos econ\u00f3micos",
+                        "Reformas institucionales ",
+                        "Tratados internacionales ",
+                        "Pol\u00edticas econ\u00f3micas"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Completa el siguiente enunciado con la informaci\u00f3n que corresponda.\n  - El libre mercado, la econom\u00eda planificada o la econom\u00eda mixta son ejemplos de _____________ que los gobiernos emplean para su desarrollo. "
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Aumentar la inversi\u00f3n extranjera como presupuesto de crecimiento econ\u00f3mico que tuvo el pa\u00eds despu\u00e9s de la expropiaci\u00f3n petrolera.",
+                        "Eliminar la libre flotaci\u00f3n del peso haciendo que el tipo de cambio fuera determinado por un control del Banco de M\u00e9xico.",
+                        "Provoco alto d\u00e9ficit presupuestal debido a las pol\u00edticas fiscales combinadas con un nuevo periodo en la econom\u00eda Estadounidense.",
+                        "Aumento el producto agr\u00edcola por el incremento del reparto de tierras y la superficie cultivada m\u00e1s que por un aumento en la productividad."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Analiza las siguientes afirmaciones sobre el periodo presidencial  de L\u00e1zaro C\u00e1rdenas y se\u00f1ala cu\u00e1l de ellas es correcta. "
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "1, 4, 5",
+                        "2, 3, 5",
+                        "1, 3, 5",
+                        "2, 4, 6"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Se\u00f1ala cuales fueron las tres propuestas centrales del modelo de Industrializaci\u00f3n de Sustituci\u00f3n de Importaciones. \n1- Gasto controlado del gobierno en servicios y garant\u00edas a la poblaci\u00f3n.\n2- Inversi\u00f3n del gobierno en obras p\u00fablicas y en todo gasto que genere demanda agregada.\n3- Establecimiento de pol\u00edticas expansionistas que activen la econom\u00eda, como bajar los impuestos y las tasas de inter\u00e9s.\n4- Establecimiento de pol\u00edticas expansionistas que activen la econom\u00eda como aumentar nuevos impuestos.\n5- Aumento de la producci\u00f3n de bienes en el pa\u00eds para no depender de los bienes del exterior.\n6- Aumento de consumo, productos del extranjero para disminuir el costo de producci\u00f3n en el pa\u00eds."
+            },
+            {
+                "ans": "21",
+                "pans": [
+                    [
+                        "M\u00e9xico vio reducidos sus ingresos econ\u00f3micos al disminuir sus exportaciones a Estados Unidos.",
+                        "La econom\u00eda de M\u00e9xico se benefici\u00f3 al exportar a Europa sustituyendo a Estados Unidos como comprador principal."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfQue suceso dio origen a la gran depresi\u00f3n y en qu\u00e9 forma impacto a M\u00e9xico? "
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "1, 3, 5",
+                        "2, 3, 5",
+                        "2, 4, 5",
+                        "1, 3, 4"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCuales son algunos de los eventos que contribuyeron a generar el llamado \u201cmilagro mexicano\u201d durante el gobierno de Adolfo Ruiz Cortines? \n1- el control del gobierno de la producci\u00f3n energ\u00e9tica.\n2- El incremento de la demanda de recursos naturales.\n3- El inicio de la guerra fr\u00eda.\n4- el inicio de la segunda Guerra Mundial.\n5- la necesidad de abastecer el mercado nacional a cualquier costo."
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Fortalecimiento en el mercado internacional.",
+                        "Estabilidad del tipo de cambio.",
+                        "Elevaci\u00f3n de precios de los productos agr\u00edcolas.",
+                        "Sustituci\u00f3n de Importaciones."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": " --Identifica una de las caracter\u00edsticas del Modelo proteccionista en M\u00e9xico. "
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "PIB",
+                        "PIB per c\u00e1pita",
+                        "PNB",
+                        "PNB per c\u00e1pita"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCual es nombre del indicador que mide el crecimiento econ\u00f3mico general de un pa\u00eds? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Estado",
+                        "Gobierno",
+                        "Constituci\u00f3n ",
+                        "Sociedad"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l es el elemento primordial que regula al sistema pol\u00edtico?"
+            },
+            {
+                "ans": "030204101115",
+                "pans": [
+                    [
+                        "Constituci\u00f3n de 1824",
+                        "Constituci\u00f3n de 1857"
+                    ],
+                    [
+                        "--retomo la separaci\u00f3n iglesia- estado",
+                        "--derechos humanos ",
+                        "--veto sobre el poder legislativo",
+                        "--soberan\u00eda",
+                        "--divisi\u00f3n de poderes con reg\u00edmenes presidencial y el federalismo",
+                        "--juicio de amparo"
+                    ]
+                ],
+                "qtype": "relate",
+                "ques": "--La constituci\u00f3n actual retomo algunos apartados e ideas de las constituciones y tratados anteriores, relaciona los apartados de la columna derecha con la constituci\u00f3n de donde fueron tomadas. "
+            },
+            {
+                "ans": "2221",
+                "pans": [
+                    [
+                        "La lucha que protagonizaron Inglaterra y Estados Unidos por el control y la producci\u00f3n del petr\u00f3leo mexicano.",
+                        "Los bajos salarios de los trabajadores con los cuales perd\u00edan su poder adquisitivo.",
+                        "Cobro inequitativo del sistema de impuestos cobrando poco a los ricos y mucho a los pobres y a las clases medias.",
+                        "El decremento al salario, a la producci\u00f3n agr\u00edcola y el incremento a la industria privada."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Se\u00f1ala cuales son algunos de los factores econ\u00f3micos que dieron origen a la constituci\u00f3n de 1917. "
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "autonom\u00eda\t",
+                        "soberan\u00eda",
+                        "democracia",
+                        "legitimidad."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l es el concepto fundamental del estado que le permite definir sus propias instituciones y formas de gobierno y determinar acciones sin intervenci\u00f3n de otros estados? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Reafirmo el car\u00e1cter laico de la educaci\u00f3n b\u00e1sica ofrecida por el estado.",
+                        "Permiti\u00f3 que los ejidatarios pudieran vender sus tierras a la iglesia.",
+                        "Reconoci\u00f3 la personalidad jur\u00eddica de todos los credos y religiones.",
+                        "Restituyo las relaciones p\u00fablicas, pol\u00edticas y diplom\u00e1ticas con el estado vaticano."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfQu\u00e9 importancia tuvo la reforma al art\u00edculo 130 de la constituci\u00f3n durante la gobernaci\u00f3n de Carlos Salinas de Gortari? "
+            },
+            {
+                "ans": "010405101213",
+                "pans": [
+                    [
+                        "- Diputados \n",
+                        "- Senadores"
+                    ],
+                    [
+                        "--Autorizar la salida de tropas nacionales y la entrada de tropas extranjeras.",
+                        "--Expedir el bando solemne para reconocer al presidente cuando lo declare el Tribunal Electoral del Poder Judicial de la Federaci\u00f3n.",
+                        "--Declarar la desaparici\u00f3n de poderes en un estado y nombrar un gobernador provisional.",
+                        "--Ser jurado de sentencia en los juicios pol\u00edticos de servidores p\u00fablicos.",
+                        "--Coordinar y evaluar el desempe\u00f1o de la entidad de fiscalizaci\u00f3n superior.",
+                        "--Decidir si se procede penalmente contra servidores p\u00fablicos (acusaci\u00f3n en juicios pol\u00edticos)"
+                    ]
+                ],
+                "qtype": "relate",
+                "ques": " --Relaciona las facultades exclusivas que tiene la c\u00e1mara de diputados y senadores seg\u00fan corresponda en forma exclusiva."
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "El congreso de la uni\u00f3n  que no aprob\u00f3 el presupuesto de egreso de la federaci\u00f3n ",
+                        "La sociedad civil que no aprob\u00f3 el presupuesto de egreso de la federaci\u00f3n.",
+                        "El congreso de la uni\u00f3n que propicio la creaci\u00f3n del Instituto Federal de Acceso a la Informaci\u00f3n IFAI.",
+                        "La sociedad civil que propicio la creaci\u00f3n del Instituto Federal de Acceso A la informaci\u00f3n IFAI."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Complete el siguiente enunciado con la informaci\u00f3n que corresponda.\n     - Durante el gobierno del vicepresidente Fox algunos factores pol\u00edticos que hab\u00edan tenido una participaci\u00f3n en el estado retomaron fuerza, tal es el caso de  __________________. "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Dirigir la pol\u00edtica exterior y celebrar tratados internacionales ",
+                        "Nombrar o remover a su gabinete",
+                        "Resolver conflictos sobre el l\u00edmite territorial entre los estados ",
+                        "Presentar al senado un acuerdo para designar a los ministros de la suprema corte."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--En las opciones aparecen algunas de las facultades que tiene presidente de M\u00e9xico menos una. "
+            },
+            {
+                "ans": "211",
+                "pans": [
+                    [
+                        "La suprema corte de justicia de la naci\u00f3n.",
+                        "el Consejo de la Judicatura Federal",
+                        "el Tribunal Electoral"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l es el \u00f3rgano de mayor jerarqu\u00eda dentro del poder judicial en M\u00e9xico? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "mercantil \u2013 legal",
+                        "moderna- libre",
+                        "civil- democr\u00e1tica",
+                        "mexicana- segura"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "- Completa el siguiente enunciado con una opci\u00f3n de las que se te presentan.\n   - Las organizaciones de la sociedad ___________ contribuyen a la construcci\u00f3n de una vida p\u00fablica aut\u00e9nticamente ____________. "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Obreros, pol\u00edticos, estudiantes, periodistas.",
+                        "Campesinos, obreros, pol\u00edticos, maestros.",
+                        "Estudiantes, profesores, intelectuales, ama de casa.",
+                        "Pol\u00edticos, periodistas, amas de casa, profesores. "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1les son los protagonistas dentro de la sociedad civil en el movimiento de 1968 en M\u00e9xico?"
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Oaxaca",
+                        "Chiapas",
+                        "Chihuahua",
+                        "Baja California Sur"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Seg\u00fan el \u00faltimo censo de poblaci\u00f3n y vivienda realizado en M\u00e9xico durante el a\u00f1o 2010 por el INEGI, \u00bfCu\u00e1l es la entidad federativa que posee mayor \u00edndice de masculinidad? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Es la densidad poblacional que se obtuvo de dividir la totalidad de la poblaci\u00f3n entre la extensi\u00f3n de la unidad territorial que se consider\u00f3.",
+                        "Es el \u00edndice de masculinidad que mide el n\u00famero de hombre totales por cada cien  hombres.",
+                        "Promedio de hijos por mujer en un pa\u00eds determinado.",
+                        "Es el n\u00famero de divorcios por cada cien matrimonios en una entidad federativa."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Para el a\u00f1o 2010, el INEGI reporta una tasa promedio de fecundidad en M\u00e9xico de 2.1, este valor corresponde a: "
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Autenticidad",
+                        "Diversidad social",
+                        "Pluralidad",
+                        "Hogar "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Es la expresi\u00f3n primaria de la cultura construida por los grupos humanos a lo largo del tiempo. "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "F, F, V, F",
+                        "V, F, F, V",
+                        "V, V, F, V",
+                        "F, V, F, V"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Clasifica los siguientes enunciados como verdadero (V) o falso (F) seg\u00fan sea el caso.\n1 las mujeres que trabajan experimentan conflictos de rol que los hombres no encuentran, al intentar combinar el trabajo y la familia _____\n2 la diferencia entre el acoso sexual y las oberturas rom\u00e1nticas o bromas amistosas es que la relaci\u00f3n social entre el iniciador y la v\u00edctima es la de poder y autoridad desigual _____\n3 cuando en la familia ambos padres trabajan, generalmente el trabajo de la esposa es considerado m\u00e1s importante que el del esposo ______\n4 El rol igualitario en la familia considera que tanto el hombre como la mujer deben compartir el poder dentro de la familia ______"
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "[1-a] [2-d]",
+                        "[1-a] [2-c] ",
+                        "[1-b] [2-c]",
+                        "[1-b] [2-d]"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Relaciona la columna de la izquierda donde se encuentran los tipos de roles familiares en cuesti\u00f3n del trabajo con la columna derecha donde est\u00e1n las caracter\u00edsticas. Rol familiar en el trabajo \n*Tipos de roles familiares\n    1.Tradicional \n    2. Igualitarios \n*Caracter\u00edsticas\na. La esposa trabaja y espera a que el marido se enfoque a ganarse la vida \nb. La esposa trabaja y basa su identidad en las actividades en torno del hogar \nc. El esposo considera que ambos deben de identificarse en las mismas esferas sociales y dentro de la familia \nd. El esposo aplaude que la mujer trabaje, pero espera que tambi\u00e9n sea responsable de la casa y los ni\u00f1os "
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "[1-b] [2-d] [3-c] ",
+                        "[1-e] [2-d] [3-a]",
+                        "[1-e] [2-b] [3-a]",
+                        "[1-d] [2-b] [3-c]"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Relaciona las siguientes definiciones con los indicadores de la tabla Indicador \n**Indicador \n1.\tDistribuci\u00f3n de poblaci\u00f3n \n2.\tEmigraci\u00f3n \n3.\tDensidad poblacional\n**Definiciones\na) Indicador que resulta de dividir el n\u00famero de personas adultas entre la poblaci\u00f3n total \nb) Cambio de residencia habitual desde una unidad pol\u00edtico administrativa hacia otra, desde la perspectiva desde el lugar de origen \nc) Indicador que resulta de dividir la totalidad de una poblaci\u00f3n entre la extensi\u00f3n de la unidad territorial considerada \nd) Es la ubicaci\u00f3n de la poblaci\u00f3n en el territorio \ne) Es la proporci\u00f3n de personas que tiene cada entidad federativa respecto del total del pa\u00eds. "
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "PNB ",
+                        "PIB per c\u00e1pita ",
+                        "PNB per c\u00e1pita ",
+                        "PIB"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l de los siguientes indicadores mide el ingreso promedio por habitante de un pa\u00eds? "
+            },
+            {
+                "ans": "21",
+                "pans": [
+                    [
+                        "El inicio de la guerra fr\u00eda entre el bloque comunista y capitalista en corea",
+                        "Primera guerra mundial"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Que causa externa al pa\u00eds provoco \u201cel milagro mexicano\u201d "
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "2, 3, 5",
+                        "2, 4",
+                        "1, 2, 4",
+                        "1, 5"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--En el per\u00edodo de gobierno de Carlos Salinas, se actu\u00f3 en contra de la sustituci\u00f3n de importaci\u00f3n, mismo que era considerado un antiguo pilar de la pol\u00edtica en M\u00e9xico. Promovida por la ONU y el BM en toda Latinoam\u00e9rica, en los 50's y 60's, la sustituci\u00f3n de importaciones era una forma de describir las barreras comerciales que proteg\u00edan a la industria local en contra de importaciones m\u00e1s baratas del mundo Industrializado. Una ventaja era que los empleos se quedaban en M\u00e9xico. A muchos industriales de las empresas estatales no les molestaba esta pol\u00edtica.\nDe acuerdo al p\u00e1rrafo anterior, selecciona de la siguiente lista cuales fueron las desventajas de este tipo de Pol\u00edtica en M\u00e9xico.\n1. Migraci\u00f3n a E.U\n2. Nula competitividad\n3. Mala calidad\n4. Productos caros\n5. Bajos salarios"
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Jos\u00e9 L\u00f3pez Portillo",
+                        "Miguel de la Madrid Hurtado",
+                        "Luis Echeverr\u00eda \u00c1lvarez",
+                        "Carlos Salinas de Gortari"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l de las siguientes opciones completa la oraci\u00f3n?\nEl modelo de desarrollo compartido se present\u00f3 con la finalidad de impulsar el desarrollo de la econom\u00eda y esto sucedi\u00f3 en el sexenio del presidente ______________."
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Compartido",
+                        "Benefactor",
+                        "Liberal",
+                        "Estabilizador"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l de las siguientes opciones completa la expresi\u00f3n?\nAdolfo Ru\u00edz Cortines dio continuidad al modelo econ\u00f3mico aplicado por sus antecesores, al cual llamo: ________________."
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "reorganizar la administraci\u00f3n p\u00fablica para cerrar paraestatales no funcionales.",
+                        "incrementar las expresiones manufactureras en vez de las de granos b\u00e1sicos.",
+                        "considerar que el Estado ten\u00eda una participaci\u00f3n excesiva en la econom\u00eda nacional",
+                        "demostrar que el problema econ\u00f3mico proced\u00eda  del gasto p\u00fablico excesivo."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Una de las causas por las que Miguel de la Madrid decide cambiar el rumbo econ\u00f3mico de M\u00e9xico, implantando reformas de liberalismo econ\u00f3mico fue: _______________."
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Estado",
+                        "Gobierno ",
+                        "Naci\u00f3n ",
+                        "Soberan\u00eda."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l es el conjunto social que se encuentra en y por la universidad de los ciudadanos? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Estado confesional",
+                        "Libertad religiosa",
+                        "Estado laico ",
+                        "Autonom\u00eda"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Es aquel en el que existe independencia y autonom\u00eda entre el estado y las iglesias, lo cual implica que este es neutral en materia religiosa, es decir que no apoya ni otorga privilegios a una o varias iglesias en particular y las creencias religiosas no influyen sobre la pol\u00edtica nacional. "
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "1, 3 y 4 ",
+                        "3 y 5",
+                        "2, 4 y 5 ",
+                        "1 y 2"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1les de las siguientes exigencias pol\u00edticas corresponden con el movimiento estudiantil en M\u00e9xico durante las marchas que surgieron en 1968 contra el Gobierno de Gustavo D\u00edaz Ordaz? (p\u00e1g.218)\n1. Autonom\u00eda de las universidades \n2. Libertad de votos para hombres y mujeres por igual \n3. Destituci\u00f3n del jefe de polic\u00eda del DF \n4. Libertad de expresi\u00f3n \n5. Fin de la represi\u00f3n gubernamental hacia los estudiantes "
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "El trabajo y la integraci\u00f3n social.",
+                        "La uni\u00f3n familiar y los valores morales.",
+                        "La cr\u00edtica y el an\u00e1lisis social.",
+                        "El respeto al pasado ind\u00edgena y el nacionalismo."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Uno de los principales prop\u00f3sitos del cine mexicano durante su \u00e9poca de oro fue el llevar un mensaje a las masas que lo ve\u00edan con cierta regularidad. \u00bfQu\u00e9 valores estaban impl\u00edcitos en muchas de las producciones? "
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Nacionalista \u2192 responsabilidad ",
+                        "Autoritario \u2192 prohibici\u00f3n ",
+                        "Totalitario \u2192 obligaci\u00f3n ",
+                        "Democr\u00e1tico \u2192 libertad."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Completa el siguiente enunciado con una de las opciones que se te presentan.\n En un r\u00e9gimen __________ como en el que se vive, las personas con iniciativas a favor de los dem\u00e1s y de mejora de su entorno deben contar con la _________ para organizarse y desarrollar sus potencialidades para el beneficio de la comunidad en la que se desenvuelven. "
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Publicaciones de organismos sociales independientes ",
+                        "Wikis o chat p\u00fablicos donde se discuta el tema ",
+                        "Bibliograf\u00eda o revistas sociol\u00f3gicas en l\u00ednea ",
+                        "Publicaciones de otras instituciones educativas."
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Para mejorar tu comprensi\u00f3n sobre \u201cManifestaciones sociales en M\u00e9xico\u201d, tu asesor te recomienda consultar otras fuentes. \u00bfCu\u00e1les de las siguientes fuentes NO debes consultar para tu estudio, por ser irrelevantes y poco confiables? "
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Encuesta a quien sepa leer porque representan 70% de la poblaci\u00f3n ",
+                        "Ninguna, debes de esperar instrucciones del asesor para indicarte qu\u00e9 hacer.",
+                        "Entrevista para tener representaci\u00f3n de la opini\u00f3n de todos los sectores.",
+                        "Encuesta solo a las personas que sepan escribir para agilizar la aplicaci\u00f3n. "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Necesitas investigar sobre los h\u00e1bitos alimenticios de una comunidad donde el 30% de la poblaci\u00f3n es analfabeta \u00bfQu\u00e9 t\u00e9cnica debes de emplear?"
+            },
+            {
+                "ans": "21",
+                "pans": [
+                    [
+                        "Sociedad civil",
+                        "Asociaci\u00f3n civil"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Este t\u00e9rmino se usa generalmente como un concepto de contraposici\u00f3n al gobierno, es decir, mediante \u00e9l se describe al conjunto de personas e instituciones que no est\u00e1n en el gobierno."
+            },
+            {
+                "ans": "21",
+                "pans": [
+                    [
+                        "Nada que ver con el estado",
+                        "Si interviene hasta cierto punto (limitado)"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfC\u00f3mo se complementan el estado y la iglesia en la educaci\u00f3n?"
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Dispersi\u00f3n poblacional",
+                        "Marginalidad",
+                        "Familia",
+                        "Migraci\u00f3n"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--La _____________ es entendida como el movimiento de una poblaci\u00f3n que consiste en dejar su lugar de residencia para establecerse en otra localidad o pa\u00eds."
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Transitorio ",
+                        "Tradicional",
+                        "Igualitario",
+                        "Contempor\u00e1nea "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Lee el siguiente texto y contesta lo que se te pide.\n         Una pareja de clase obrera cree que el hombre debe ser la cabeza de familia y el que gane el pan de la familia. Pero debido a que ellos no completaban los gastos con su sueldo de 5,000 mil pesos mensuales, la esposa cuidaba los ni\u00f1os de los vecinos en su casa. Ambos describieron esta situaci\u00f3n como temporal. Para explicar el hecho de que el hizo la mitad del trabajo en casa, invocaron el mito de impotencia de la mujer. \u00c9l pag\u00f3 las facturas por que ella es in\u00fatil con una calculadora, \u00e9l hizo las compras porque ella no pod\u00eda manejar un auto y as\u00ed sucesivamente.\n\u00bfCu\u00e1l es el tipo de rol que practica la familia?"
+            },
+            {
+                "ans": "21",
+                "pans": [
+                    [
+                        "Migraci\u00f3n interna",
+                        "Migraci\u00f3n externa"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Es la migraci\u00f3n dentro del mismo pa\u00eds"
+            },
+            {
+                "ans": "21",
+                "pans": [
+                    [
+                        "Constituci\u00f3n",
+                        "Sistema Pol\u00edtico"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Es el conjunto de reglas mediante las cuales Estado, gobierno y sociedad deben interactuar."
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "Tradicional",
+                        "Familia",
+                        "Diversidad social",
+                        "Autenticidad"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Es un conjunto de personas que convive bajo el mismo techo."
+            },
+            {
+                "ans": "1112",
+                "pans": [
+                    [
+                        "Homoparental",
+                        "Extensa",
+                        "Contempor\u00e1nea",
+                        "Nuclear"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--La familia en la que el esposo es el proveedor del hogar se denomina."
+            },
+            {
+                "ans": "21",
+                "pans": [
+                    [
+                        "Crecimiento econ\u00f3mico",
+                        "Modelo econ\u00f3mico "
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Se refiere al aumento en la producci\u00f3n total de bienes, servicios e infraestructura."
+            },
+            {
+                "ans": "1121",
+                "pans": [
+                    [
+                        "Homoparental",
+                        "Contempor\u00e1nea ",
+                        "Extensa",
+                        "Nuclear"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--\u00bfCu\u00e1l es la familia en la que los abuelos son la cabeza de la casa y viven con ellos los hijos y nietos?"
+            },
+            {
+                "ans": "1211",
+                "pans": [
+                    [
+                        "115, 762",
+                        "112, 337",
+                        "120, 956",
+                        "108, 396"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--eg\u00fan el \u00faltimo censo de poblaci\u00f3n y vivienda realizado en M\u00e9xico durante el a\u00f1o 2010 por el INEGI \u00bfCu\u00e1l es aproximadamente la poblaci\u00f3n en el territorio nacional hasta el a\u00f1o 2010, expresada en miles de habitantes?\n"
+            },
+            {
+                "ans": "2111",
+                "pans": [
+                    [
+                        "Hogar familiar",
+                        "Hogar no familiar ",
+                        "Diversidad social ",
+                        "Hogar monoparental"
+                    ],
+                    []
+                ],
+                "qtype": "cio",
+                "ques": "--Es aquel en el que al menos uno de sus integrantes tiene parentesco con el jefe o jefa del hogar, y puede ser nuclear, ampliado o extenso y compuesto."
+            }
+        ]
+    }
+}
